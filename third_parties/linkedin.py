@@ -6,7 +6,7 @@ def scrape_linkedin_profile():
     '''
     This function scrapes a linkedin profile and returns the following information:
     '''
-    response = requests.get("https://gist.githubusercontent.com/arvindkc/8fac136752fbcdc6ca3da9df6307eb8d/raw/085905a6b4af0a6b6e3fcf2fca1fe8ec2da6a60c/gistfile1.txt")
+    response = requests.get("https://gist.githubusercontent.com/arvindkc/008a717bb4688d3fe7b38a69ed2fa2b2/raw/900d312017e9ec36edac29b2a23d6baa3480772d/gistfile1.txt")
     data = response.json()
     data = {
         k: v

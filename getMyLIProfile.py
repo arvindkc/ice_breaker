@@ -4,7 +4,7 @@ api_key = 'u82Z1FRbNscJRQldtsRhBg'
 headers = {'Authorization': 'Bearer ' + api_key}
 api_endpoint = 'https://nubela.co/proxycurl/api/v2/linkedin'
 params = {
-    'linkedin_profile_url': 'https://linkedin.com/in/arvindkc/',
+    'linkedin_profile_url': 'https://linkedin.com/in/udisha-madnani/',
     'extra': 'include',
     'github_profile_id': 'include',
     'facebook_profile_id': 'include',

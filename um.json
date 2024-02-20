@@ -1,0 +1,252 @@
+{
+  "public_identifier": "udisha-madnani",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/udisha-madnani/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240218%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240218T044940Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bf5455f47168db3f5aa55075b4e1a6645519ceac36484214549495ee379c11c2",
+  "background_cover_image_url": null,
+  "first_name": "Udisha",
+  "last_name": "Madnani",
+  "full_name": "Udisha Madnani",
+  "follower_count": null,
+  "occupation": "Data Science - Associate Consultant at TheMathCompany",
+  "headline": "\\ud835\\udde0\\ud835\\udde6\\ud835\\uddd5\\ud835\\uddd4@\\ud835\\udde6\\ud835\\uddd6\\ud835\\udde8 | \\ud835\\udded\\ud835\\udde6 | \\ud835\\udde9\\ud835\\udddc\\ud835\\udde7",
+  "summary": "I am a budding Business Analyst adept in collecting, analyzing, and transforming data into insights. An experienced and highly skilled analyst with a proven background in requirement elicitation, process improvement, and stakeholder relationship management for a globally leading pharmaceutical company. I have 3+ years of experience in the healthcare domain.\\n\\nMy passion for Data Analytics allows me to provide data-driven, action-oriented solutions to challenging business problems. With strong problem-solving and communication skills, I am pursuing Masters in Business Analytics at Santa Clara University.\\n\\nWhen I\\u2019m not working, I love meeting new people, working my way through every recipe in the family cookbook, focus on learning new things and indulging my love for seeing new places.",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Santa Clara",
+  "state": "California",
+  "experiences": [
+    {
+      "starts_at": { "day": 1, "month": 12, "year": 2022 },
+      "ends_at": null,
+      "company": "TheMathCompany",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/themathcompany/",
+      "title": "Data Science - Associate Consultant",
+      "description": null,
+      "location": null,
+      "logo_url": "https://media.licdn.com/dms/image/D560BAQHy4qlWHFeyjQ/company-logo_400_400/0/1680502845172?e=1691625600&v=beta&t=YhA_uUF0FECOIEMYX8eJjactCRjRhgAFYVjBVozqm9g"
+    },
+    {
+      "starts_at": { "day": 1, "month": 4, "year": 2022 },
+      "ends_at": null,
+      "company": "Santa Clara University School of Law",
+      "company_linkedin_profile_url": "https://www.linkedin.com/school/santaclaralaw/",
+      "title": "Project Manager",
+      "description": null,
+      "location": "Santa Clara, California, United States",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQEAUPUHa_hr_Q/company-logo_400_400/0/1547060252275?e=1691625600&v=beta&t=s70PwWlS8QeOHKfj-JXaz_O0KXtW4z94GJBWRhlni3c"
+    },
+    {
+      "starts_at": { "day": 1, "month": 6, "year": 2022 },
+      "ends_at": { "day": 1, "month": 12, "year": 2022 },
+      "company": "Proofpoint",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/proofpoint/",
+      "title": "Business Operations Intern",
+      "description": null,
+      "location": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFILWQkqOkZQg/company-logo_400_400/0/1656650274908?e=1691625600&v=beta&t=5uTQDP5tws1mNGVItDOV2jPj7-xhTBguu7W82sNEWHM"
+    },
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2022 },
+      "ends_at": { "day": 1, "month": 6, "year": 2022 },
+      "company": "VMware",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vmware/",
+      "title": "Decision Intelligence Practicum",
+      "description": null,
+      "location": "United States",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGRwuYZeI6aaA/company-logo_400_400/0/1588094413060?e=1691625600&v=beta&t=M0Y_HMqarZ5-XyA1Z3PR6j-0w-xNNX6hS6qUJowGF_M"
+    },
+    {
+      "starts_at": { "day": 1, "month": 8, "year": 2018 },
+      "ends_at": { "day": 1, "month": 12, "year": 2020 },
+      "company": "ZS",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/zs-associates/",
+      "title": "Business Operations Analyst",
+      "description": "\\u2022 Generated business insights of various products and their competitors for one of the top 5 global pharma companies.\\n\\u2022 Strategic role in setting up the operations CoE that emphasizes Process optimization, Automation & Internal teams coordination\\n\\u2022 Led a team while creating the COVID-19 recovery tracker for 18 products for end-to-end project execution while closely communicating with stakeholders\\n\\u2022 Trained colleagues in QlikSense, VBA, and Advanced Excel\\n\\u2022 Created proposal models after identifying Business leads to convert them into opportunities",
+      "location": "Pune, Maharashtra, India",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHakNnK7W54wg/company-logo_400_400/0/1656596698236?e=1691625600&v=beta&t=D1VitPypKLw9Ly97CEonBML-49iFqlIBUG6-atjXB3A"
+    },
+    {
+      "starts_at": { "day": 1, "month": 6, "year": 2017 },
+      "ends_at": { "day": 1, "month": 7, "year": 2018 },
+      "company": "SANGEET FASHION TEXTILES PRIVATE LIMITED",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/sangeet-fashion-textiles-private-limited/",
+      "title": "Business Operations Manager",
+      "description": "\\u2022 Analyzed historical data to derive insights for optimization of manufacturing of garments.\\n\\u2022 Worked with senior stakeholders to transition into an online platform from 100% on-\\ufb01eld sales. This included the planning, timeline creation, and execution of the project.",
+      "location": "Kolkata, West Bengal, India",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": { "day": 1, "month": 9, "year": 2021 },
+      "ends_at": { "day": 1, "month": 12, "year": 2022 },
+      "field_of_study": "Business Analytics",
+      "degree_name": "Master of Science - MS",
+      "school": "Santa Clara University",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/D560BAQHDOjHAKD-BJw/company-logo_400_400/0/1681503496315?e=1691625600&v=beta&t=Y85LrEwCgrTTkwqD8r3agvqmWRqURihXXNcCeUWBr90",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2013 },
+      "ends_at": { "day": 1, "month": 1, "year": 2017 },
+      "field_of_study": "Electrical, Electronics and Communications Engineering",
+      "degree_name": "Bachelor of Technology (B.Tech.)",
+      "school": "Vellore Institute of Technology",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGgTYgPZiPkaA/company-logo_400_400/0/1519933404766?e=1691625600&v=beta&t=kdr7UN-hKopNfuQ50fozvQZ9yiNvWfDLkj2QVk1Szog",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": ["English", "German", "Hindi"],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": { "day": 1, "month": 2, "year": 2021 },
+      "ends_at": null,
+      "name": "Intermediate R",
+      "license_number": "17773561",
+      "display_source": null,
+      "authority": "DataCamp",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 10, "year": 2018 },
+      "ends_at": null,
+      "name": "Qlik Sense Business Analyst",
+      "license_number": "QSBA20170486",
+      "display_source": null,
+      "authority": "Qlik",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 6, "year": 2015 },
+      "ends_at": null,
+      "name": "TIFAC, Microcontroller 8051",
+      "license_number": null,
+      "display_source": null,
+      "authority": null,
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 11, "year": 2021 },
+      "ends_at": { "day": 1, "month": 11, "year": 2022 },
+      "name": "Google Analytics Individual Contribution",
+      "license_number": "19718522",
+      "display_source": "exceedlms.com",
+      "authority": "Google",
+      "url": "https://skillshop.exceedlms.com/assessment_responses/report/19718522"
+    }
+  ],
+  "connections": null,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/miloni-gada",
+      "name": "Miloni Gada",
+      "summary": "Actively seeking full-time opportunities | Data Analytics Intern at Caterpillar Inc. | MS in Information System from Santa Clara University | Data Analytics | Business Intelligence | Product Management | Python | SQL",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chhavi--garg",
+      "name": "Chhavi Garg",
+      "summary": "Actively Seeking Full-Time Opportunities | Product Manager Intern at Sage | MS Information Systems from Santa Clara University | Data Analyst",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/soundharya-suvarna",
+      "name": "Soundharya Suvarna",
+      "summary": "Actively looking for full time roles in Data Analyst",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/charleneni56",
+      "name": "Charlene (ChiaLing) Ni",
+      "summary": "Data Analyst @ Weee! | SQL, Tableau, Excel, Python, R | MS Business Analytics @ Santa Clara University",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/varun-chodha",
+      "name": "Varun Chodha",
+      "summary": "Principal at TheMathCompany | Ex AbbVie | Ex ZS | Kellogg MBA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anjaliguptascu",
+      "name": "Anjali Gupta",
+      "summary": "Actively seeking Full-Time opportunities | Product Manager | Project Manager | Business Analyst",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tejaswini-edupuganti",
+      "name": "Tejaswini E.",
+      "summary": "WDC | SCU | Data Science and Analytics",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/aashnarungta",
+      "name": "Aashna Rungta",
+      "summary": "Strategy & Operations at Uber",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jhaanvi-golani",
+      "name": "Jhaanvi Golani",
+      "summary": "Software Engineer at Amazon| Former SDE Intern at Amazon(AWS Lambda)| Data Enthusiast| Graduate student at SCU - MSIS program",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilytseng2021",
+      "name": "Emily Tseng",
+      "summary": "Data Analyst at CooperVision | M.S. in Business Analytics | Santa Clara University",
+      "location": null
+    }
+  ],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [],
+  "skills": [
+    "Data Science",
+    "Dataiku DSS",
+    "Presentation Skills",
+    "Google Analytics",
+    "Microsoft Power BI",
+    "Tableau",
+    "Business Analysis",
+    "Machine Learning",
+    "Data Analysis",
+    "Management Consulting",
+    "Project Management",
+    "Analytical Skills",
+    "Analytics",
+    "Consulting",
+    "python",
+    "SQL",
+    "R (Programming Language)",
+    "Microsoft Excel",
+    "Microsoft Office",
+    "Visual Basic for Applications (VBA)"
+  ],
+  "inferred_salary": { "min": null, "max": null },
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": {
+    "github_profile_id": null,
+    "twitter_profile_id": null,
+    "facebook_profile_id": null
+  },
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
